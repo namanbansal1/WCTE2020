@@ -1,1 +1,1 @@
-Contains report, Presentation and Poster 
+Contains Reports, Presentations, Jupyter Notebook and Poster 
